@@ -31,7 +31,7 @@ The goal was to analyze sales data and generate meaningful business insights.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
